@@ -18,7 +18,7 @@
 # Print Weird if the number is weird; otherwise, print Not Weird.
 
 #!/bin/python
-
+# test
 import sys
 
 N = int(input())
